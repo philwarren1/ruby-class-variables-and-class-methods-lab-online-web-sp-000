@@ -24,7 +24,7 @@ class Song
     @@genres = []
   end
   
-  def self.srtists
+  def self.artists
     @@artists = []
   end
   
